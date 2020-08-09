@@ -5,7 +5,7 @@ import lombok.experimental.Wither;
 import java.time.LocalDateTime;
 
 @Data
-@Wither
+@With
 @EqualsAndHashCode
 @AllArgsConstructor
 @NoArgsConstructor
